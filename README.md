@@ -3,15 +3,11 @@
 The Simple Task Manager project is a web application designed to assist users in organizing and managing their tasks effectively. Built with simplicity and efficiency in mind, this task manager provides essential features for task management while maintaining a user-friendly interface.
 
 ## Screenshots
-<<<<<<< HEAD
-=======
-![task1](https://github.com/Theertha26/Task_Manager/assets/106685074/e5f13d82-cd72-4e5c-846e-3b775d2db5d0)
 
-![Task2](https://github.com/Theertha26/Task_Manager/assets/106685074/521283c5-a6ba-4cdf-be70-ce913a453022)
->>>>>>> origin/main
 
-![task1](https://github.com/Theertha26/Task_Manager/assets/106685074/3c067351-ec86-4c53-a3c7-56ea6c05f852)
-![Task2](https://github.com/Theertha26/Task_Manager/assets/106685074/f96c554a-63a6-4867-b031-2fedcb257075)
+
+![task1](https://github.com/Theertha26/Task_Manager/assets/106685074/a122ab89-5b26-459e-957b-b03dfa1c68f7)
+
 
 ## Features
 
