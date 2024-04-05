@@ -83,7 +83,6 @@ The Simple Task Manager project is a web application designed to assist users in
 - You should have a MongoDB database.
 - You should have a code editor (preferred: VS Code)
 
-## Installation and Setup
 
 ## Installation and Setup
 
