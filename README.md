@@ -7,6 +7,8 @@ The Simple Task Manager project is a web application designed to assist users in
 
 
 ![task1](https://github.com/Theertha26/Task_Manager/assets/106685074/a122ab89-5b26-459e-957b-b03dfa1c68f7)
+![Task2](https://github.com/Theertha26/Task_Manager/assets/106685074/d97b5034-98d1-4db7-aadf-e4859fc845e3)
+
 
 
 ## Features
