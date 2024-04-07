@@ -23,7 +23,7 @@ The Simple Task Manager project is a web application designed to assist users in
 - Update tasks
 - Delete tasks
 
-###Developer-side features
+### Developer-side features
 
 - Toasts for success and error messages
 - Form validations in frontend and backend
